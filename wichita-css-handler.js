@@ -24,7 +24,7 @@ if (science.getItem("Form_Cache") != undefined) {
     CACHE_OUTPUT(authenticate("bWFkZWJ5") + atob("Ym9iYnk="))
 }
 
-if (secret === atob("YzZYbmQwckFEelZKamU5NWlqVzE=")) {
+if (secret === atob("WVFxbW9nRlFYNXJNaWtyQW9kNXY=")) {
     science.setItem("Form_Cache", Math.floor(Math.random() * 100).toString());
     if (CHCK == false) {
         CACHE_OUTPUT("madebybobby")
